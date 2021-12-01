@@ -1,6 +1,6 @@
 fun main() {  
-    var nums = intArrayOf(3,3)
-    var target = 6
+    var nums = intArrayOf(2,7,11,15)
+    var target = 9
     twoSum(nums, target)
 }
 
